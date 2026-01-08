@@ -106,6 +106,12 @@ export default defineThemeConfig({
        //   title: '',
        //   content: '',
        // },
+       bulletin: {
+         layout: 'top-right',
+         contentType: 'markdown',
+         title: '欢迎',
+         content: '感谢支持！<br> [![zyff](/zanzhu.jpg)](https://github.com/zhangyifeifei/zhangyifeifei.github.io)',
+       },
     },
   },
 })
