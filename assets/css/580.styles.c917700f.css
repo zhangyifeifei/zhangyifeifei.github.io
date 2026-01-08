@@ -1,0 +1,10 @@
+
+.open-door[data-v-6efd3086] {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.open-door .main[data-v-6efd3086] {
+  background: #ccc;
+}
+
